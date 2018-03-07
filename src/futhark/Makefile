@@ -1,4 +1,4 @@
-PYTHON=$(shell which python)
+PYTHON=$(shell which python3)
 FUTHARK_OPENCL=futhark-opencl
 FUTHARK_C=futhark-c
 
